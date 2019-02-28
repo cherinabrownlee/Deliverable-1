@@ -1,6 +1,11 @@
-Body{
-  margin:0;
-  padding:;
+html{
+    background: #F0ECEE;
+    background-image: url(bulldog.jpg);
+}
+
+
+body{
+  background-color: F0ECEE;
   font-family: Fira Sans;
 }
 
@@ -14,10 +19,4 @@ Body{
 .nav > li {
   display: inline-block;
   padding-right: 50px
-}
-
-.html{
-  background: #F0ECEE
-  background-image:
-
 }
