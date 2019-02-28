@@ -1,0 +1,23 @@
+Body{
+  margin:0;
+  padding:;
+  font-family: Fira Sans;
+}
+
+.nav{
+  color: #F0ECEE
+  list-style: none;
+  text-align: right;
+  padding: 20px 0 20px 0;
+}
+
+.nav > li {
+  display: inline-block;
+  padding-right: 50px
+}
+
+.html{
+  background: #F0ECEE
+  background-image:
+
+}
