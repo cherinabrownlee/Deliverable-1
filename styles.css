@@ -1,19 +1,9 @@
-html{
-    background: #F0ECEE;
-    background-image: url(bulldog.jpg);
-}
-
-
-body{
-  background-color: F0ECEE;
-  font-family: Fira Sans;
-}
-
-.nav{
+.nav {
   color: #F0ECEE
   list-style: none;
   text-align: right;
   padding: 20px 0 20px 0;
+  font-size: 20px;
 }
 
 .nav > li {
